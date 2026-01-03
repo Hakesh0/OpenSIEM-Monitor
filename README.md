@@ -38,13 +38,17 @@ This repository represents a **mature, SOC-aligned security monitoring architect
 
 ## System Architecture
 
-![Image](https://wisdomplexus.com/wp-content/uploads/2020/10/Working-Diagram-of-SIEM-540x296.jpg)
+![Wazuh Dashboard](images/dashboard.png)
 
-![Image](https://documentation.wazuh.com/current/_images/deployment-architecture1.png)
+![Image](images/activity.png)
 
-![Image](https://www.researchgate.net/publication/320413444/figure/fig2/AS%3A551051742769152%401508392381095/Suricata-multi-threaded-architecture.png)
+![Image](images/use case diagram.png)
 
-![Image](https://www.cybernx.com/wp-content/uploads/2025/07/7-stages-of-soc-process-1024x535.webp)
+![Image](images/wrokflow.png)
+
+![Image](images/class diagram.png)
+
+![Image](images/sequence.png)
 
 ### Architecture Highlights
 
