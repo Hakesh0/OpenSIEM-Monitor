@@ -40,13 +40,7 @@ This repository represents a **mature, SOC-aligned security monitoring architect
 
 ![Wazuh Dashboard](images/dashboard.png)
 
-![Image](images/activity.png)
-
-![Image](images/use case diagram.png)
-
-![Image](images/wrokflow.png)
-
-![Image](images/class diagram.png)
+  ![Image](images/activity.png)
 
 ![Image](images/sequence.png)
 
@@ -120,7 +114,7 @@ This repository represents a **mature, SOC-aligned security monitoring architect
 
 ---
 
-## 📊 Observability & Visibility
+## Observability & Visibility
 
 The platform provides:
 
@@ -148,7 +142,7 @@ The platform provides:
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License**.
 Free to use, modify, and distribute with attribution.
