@@ -2,7 +2,6 @@
 
 ![Security](https://img.shields.io/badge/security-monitoring-blue)
 ![SIEM](https://img.shields.io/badge/SIEM-enterprise--grade-green)
-![Status](https://img.shields.io/badge/status-production--ready-success)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 A **production-oriented security monitoring platform** that integrates network intrusion detection with centralized SIEM capabilities and real-time alerting.
