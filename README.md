@@ -9,7 +9,7 @@ This project demonstrates how modern Security Operations Centers (SOCs) can achi
 
 ---
 
-## Project Overview
+## Project-Overview
 
 The **SIEM-Based Security Monitoring Lab** is designed to provide continuous security visibility across network and host layers.
 It enables organizations to detect malicious activity, correlate security events, and deliver actionable alerts with minimal latency.
